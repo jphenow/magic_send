@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = MagicSend::VERSION
   gem.authors       = ["Jon Phenow"]
   gem.email         = ["j.phenow@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Do YOU hate deciding what method to call? Me neither}
+  gem.summary       = %q{Never worry about the code your calling. EVER AGAIN.}
+  gem.homepage      = "http://github.com/jphenow/magic_send"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
