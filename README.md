@@ -1,29 +1,5 @@
 # MagicSend
 
-TODO: Write a gem description
+![Magic](http://25.media.tumblr.com/tumblr_mdo0ycGid11rau9cuo1_400.gif)
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'magic_send'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install magic_send
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+Do you hate choosing what method to call? Me too.
