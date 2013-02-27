@@ -57,7 +57,7 @@ module MagicSend
     def get_method
       object.methods.sample
     end
-    private
+    private :get_method
 
     def arity
       method.arity
